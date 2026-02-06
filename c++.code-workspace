@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "second_project.cpp"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "iostream": "cpp",
+            "ostream": "cpp"
+        }
+    }
+}
